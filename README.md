@@ -1,5 +1,13 @@
 # Lab 04: Infrastructure as Code with Terraform
 
+## Video Walkthrough
+
+Watch the completed Lab 04 walkthrough on Loom:
+
+[▶️ Lab 04: Infrastructure as Code with Terraform — Loom Video](https://www.loom.com/share/4d94a44f69c9471bbe17a89af75aa63d)
+
+---
+
 ## Overview
 
 In this lab, I used **Terraform** in **Azure Cloud Shell** to deploy and manage Azure infrastructure through code instead of manually creating resources in the Azure portal.
@@ -310,16 +318,6 @@ crash.log
 - Terraform state management
 - Change planning and deployment validation
 - Cloud environment cleanup
-
----
-
-## Video Walkthrough
-
-A Loom walkthrough can be added here after the lab demonstration is recorded.
-
-```text
-Loom Video: Add link here
-```
 
 ---
 
